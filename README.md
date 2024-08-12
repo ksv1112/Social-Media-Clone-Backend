@@ -117,7 +117,8 @@ Contributions are welcome! Please follow these steps to contribute:
      git push origin feature/your-feature
    ```
 
-5. **Create a new Pull Request:**
+
+5. **Create a new Pull Request**
 
 <br> 
 
